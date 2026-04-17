@@ -28,7 +28,7 @@ Aplikasi **News Reader** ini dikembangkan sebagai tugas praktikum mata kuliah Pe
 
 | Loading State | Success State | Error State |
 |:---:|:---:|:---:|
-| <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/478e9305-ca57-4298-b6b7-e93b4f593278" />| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/152fee0e-4e83-41f2-bfdf-748c132cc02a" />| <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/0f5b0e49-6f0d-42e6-b639-a43765d6aa22" />|
+| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/478e9305-ca57-4298-b6b7-e93b4f593278" />| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/152fee0e-4e83-41f2-bfdf-748c132cc02a" />| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0f5b0e49-6f0d-42e6-b639-a43765d6aa22" />|
 
 | Detail Screen | Menu Favorite| Hamburger Menu |
 |:---:|:---:|:---:|
@@ -36,9 +36,6 @@ Aplikasi **News Reader** ini dikembangkan sebagai tugas praktikum mata kuliah Pe
 
 ##  Video Demo
 Video demo fitur aplikasi dapat diakses melalui tautan berikut:
-**
 https://github.com/user-attachments/assets/d79af54c-b025-413d-9977-bae6ce7e70a9
-**
-
 ---
 © 2026 Pradana Figo Ariasya - 123140063.
