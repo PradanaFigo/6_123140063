@@ -1,4 +1,4 @@
-# 📰 News Reader App - Praktikum PAM Minggu 6
+# News Reader App - Praktikum PAM Minggu 6
 
 Aplikasi **News Reader** ini dikembangkan sebagai tugas praktikum mata kuliah Pengembangan Aplikasi Mobile (PAM). Aplikasi ini mendemonstrasikan integrasi REST API menggunakan Ktor Client dalam ekosistem Kotlin Multiplatform.
 
@@ -35,7 +35,8 @@ Aplikasi **News Reader** ini dikembangkan sebagai tugas praktikum mata kuliah Pe
 | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0e0045ef-2e2c-4add-8da8-66a228a44f18" />| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1204882c-757a-45a5-933e-2794093ed7ba" />| <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/74e7c0aa-dbaa-4540-bb31-bb67a2686b64" />|
 
 ##  Video Demo
+
 Video demo fitur aplikasi dapat diakses melalui tautan berikut:
 https://github.com/user-attachments/assets/d79af54c-b025-413d-9977-bae6ce7e70a9
----
+
 © 2026 Pradana Figo Ariasya - 123140063.
